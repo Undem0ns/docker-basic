@@ -27,3 +27,5 @@ yarn-error.log*
 /mahachai
 /WordpressDocker/mysql
 /WordpressDocker/wordpress
+
+/LaravelDocker/mysql
